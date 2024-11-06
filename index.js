@@ -4,7 +4,7 @@ let { sequelize } = require("./lib/index");  // Sequelize instance used to conne
 const app = express();  
 
 // Middleware setup
-app.use(express());  
+app.use(express().json();  
 
 // Movie data array to seed the database
 let movieData = [
