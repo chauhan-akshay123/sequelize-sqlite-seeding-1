@@ -7,7 +7,7 @@ const app = express();
 app.use(express().json();  
 
 // Movie data array to seed the database
-[
+let movieData = [
       {
         name: 'Raabta',
         genre: 'Romantic',
