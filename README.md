@@ -1,7 +1,3 @@
-Here’s a simple yet informative README description for your database seeding practice repository:
-
----
-
 # Express Sequelize Seed Example
 
 This repository demonstrates a basic setup for seeding a SQLite database using Node.js, Express, and Sequelize. The project includes example data and routes to populate and interact with the database, making it ideal for learning or testing purposes.
